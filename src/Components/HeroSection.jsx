@@ -10,7 +10,7 @@ import { Link } from "react-router";
 
 const HeroSection = () => {
   return (
-    <main className="relative bg-black">
+    <main className="relative ">
       <div className="">
         <div className="container mx-auto px-4 sm:px-6 lg:px-12 min-h-screen flex items-center ">
           <div className="grid grid-cols-1 md:grid-cols-2  gap-29  items-center mx-auto pt-32 pb-16 lg:pt-0 lg:pb-0">

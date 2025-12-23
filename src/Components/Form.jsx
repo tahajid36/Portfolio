@@ -15,11 +15,7 @@ const Form = () => {
               <h1 className="text-4xl sm:text-5xl font-extrabold text-text-primary-light dark:text-text-primary-dark leading-tight">
                 Elevate your brand with Me
               </h1>
-              <p className="mt-4 text-text-secondary-light dark:text-text-secondary-dark text-base">
-                It is an established fact that a reader will be distracted. The
-                point of using Lorem Ipsum is that it has a more-or-less normal
-                distribution of letters.
-              </p>
+              
             </div>
 
             {/* Right Form Section */}
