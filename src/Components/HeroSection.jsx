@@ -39,7 +39,7 @@ const HeroSection = () => {
                   </p>
 
                   <div className="flex items-center space-x-3">
-                    {/* Instagram */}
+                    
                     <a
                       href="https://www.linkedin.com/in/tahajid-ahmed/"
                       className="w-12 h-12 flex items-center justify-center bg-gray-100 dark:bg-gray-800/60 rounded-full text-gray-600 dark:text-white hover:bg-primary hover:text-white transition-all duration-300"
@@ -47,9 +47,9 @@ const HeroSection = () => {
                       <GrLinkedin/>
                     </a>
 
-                    {/* Facebook */}
+                    
                     <a
-                      href="#"
+                      href="https://github.com/tahajid36"
                       className="w-12 h-12 flex items-center justify-center bg-gray-100 dark:bg-gray-800/60 rounded-full text-gray-600 dark:text-white hover:bg-primary hover:text-white transition-all duration-300"
                     >
                       <FaGithub/>
